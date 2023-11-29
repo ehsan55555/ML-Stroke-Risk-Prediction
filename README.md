@@ -44,7 +44,7 @@ Built with SQL, Tableau, and Spark.
 
 
 # Authors:
-Aimeé Galindo: GitHub | LinkedIn
+Aimeé Galindo: [[Github](https://github.com/aimeegalindo)] | LinkedIn
 
 Ehsan Aref Adib: GitHub | LinkedIn
 
