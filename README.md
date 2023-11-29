@@ -44,10 +44,10 @@ Built with SQL, Tableau, and Spark.
 
 
 # Authors:
-Aimeé Galindo: [Github](https://github.com/aimeegalindo) | LinkedIn
+Aimeé Galindo: [Github](https://github.com/aimeegalindo) | [LinkedIn](https://www.linkedin.com/in/aimeegalindo/)
 
-Ehsan Aref Adib: GitHub | LinkedIn
+Ehsan Aref Adib: [GitHub](https://github.com/ehsan55555) | LinkedIn
 
-Natalie Binder: GitHub | LinkedIn
+Natalie Binder: [GitHub](https://github.com/NatalieBinder) | [LinkedIn](https://www.linkedin.com/in/natalie-binder-936b1a233/)
 
-Nathaniel Cervantez: GitHub | LinkedIn
+Nathaniel Cervantez: [GitHub](https://github.com/nCervantez) | [LinkedIn](https://www.linkedin.com/in/nathaniel-cervantez-234497278/)
