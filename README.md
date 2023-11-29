@@ -38,6 +38,9 @@ Built with SQL, Tableau, and Spark.
 
 #Authors:
 Aimeé Galindo: GitHub | LinkedIn
+
 Ehsan Aref Adib: GitHub | LinkedIn
+
 Natalie Binder: GitHub | LinkedIn
+
 Nathaniel Cervantez: GitHub | LinkedIn
